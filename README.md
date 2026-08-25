@@ -173,7 +173,7 @@ The **RCC Design Suite** is a desktop application built with Python and Tkinter,
 > *This section provides visual verification of the operational Tkinter GUI, dynamic Matplotlib load transfer diagrams, and export capabilities.*
 
 ### 1. Tkinter Graphical User Interface
-![Tkinter GUI - One-Way Slab Design Interface](./docs/gui_preview/png_images/page_1.png)
+![Tkinter GUI - One-Way Slab Design Interface](./docs/load_diagram/One_Way_Beam_Loads_Diagram.png)
 *Figure 1: Interactive Tkinter GUI displaying input forms, boundary conditions, and design parameter controls.*
 
 ### 2. 2D Matplotlib Dynamic Load Transfer Diagram
