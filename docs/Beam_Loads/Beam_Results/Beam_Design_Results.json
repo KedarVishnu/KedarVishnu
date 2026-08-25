@@ -1,0 +1,15 @@
+[
+    {
+        "beam_no": "B-1",
+        "beam_type": "Simply Supported Beam",
+        "lft_col_no": "C-1",
+        "rt_col_no": "C-2",
+        "beam_depth_mm": 1000.0,
+        "span_m": 10.0,
+        "beam_stiffness_I_by_L_m3": 0.0,
+        "supports": {},
+        "Ra_kN": 471.625,
+        "Rb_kN": 449.125,
+        "fixed_end_moment_kNm": 0.0
+    }
+]
